@@ -1,10 +1,6 @@
 # Dabang 
 부동산 매물을 올리고 검색할 수 있는 사이트 
 
-## Quick Link
-<a href="http://i5a109.p.ssafy.io/" target="_blank"><img src="https://img.shields.io/badge/HOMEPAGE-A3CCA3?style=flat-square&logo=&logoColor=white"/></a>
-
-
 ## Setup
 ```
 $ git clone https://lab.ssafy.com/s05-webmobile3-sub3/S05P13A109.git
